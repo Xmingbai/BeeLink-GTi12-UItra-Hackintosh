@@ -2,7 +2,7 @@
 
 主机链接：https://u.jd.com/hb2OgDd
 
-B站测评视频：
+B站测评视频：更新中
 
 ===========================================================================
 # 主机配置单
@@ -10,7 +10,7 @@ B站测评视频：
 
 CPU ：i9-12900H
 
-显卡 ：独显AMD RX5500/5600/5700/6600/6800/6900系列
+显卡 ：EX显卡坞+独显RX5500，也适用于5600/5700/6600/6800/6900系列
 
 内存 ：笔记本DDR5内存条，三星 16x2 4800
 
@@ -32,7 +32,7 @@ BIOS默认就可以，也可以关闭cfg lock
 ===========================================================================
 
 # MacOS 完美程度
-（可以支持macOS 12-14所有版本，15 beta理论上也可以）
+可以支持安装macOS 12-14所有版本，15 beta理论上也可以
 
 CPU大小核心正常
 
@@ -52,12 +52,12 @@ intel XE核显无解 ，只有扬声器问题未解决
 
 # 系统截图
 
-![](https://github.com/Xmingbai/FEVM-FN60G-Hackintosh/blob/main/FN60g-1.png)
-![](https://github.com/Xmingbai/FEVM-FN60G-Hackintosh/blob/main/FN60G-CPU.png)
-![](https://github.com/Xmingbai/FEVM-FN60G-Hackintosh/blob/main/FN60G-6600.png)
-![](https://github.com/Xmingbai/FEVM-FN60G-Hackintosh/blob/main/FN60G-ETH.png)
-![](https://github.com/Xmingbai/FEVM-FN60G-Hackintosh/blob/main/FN60G-AU.png)
-![](https://github.com/Xmingbai/FEVM-FN60G-Hackintosh/blob/main/FN60G-WIFI.png)
-![](https://github.com/Xmingbai/FEVM-FN60G-Hackintosh/blob/main/FN60G-BT.png)
-![](https://github.com/Xmingbai/FEVM-FN60G-Hackintosh/blob/main/FN60G-2.png)
-![](https://github.com/Xmingbai/FEVM-FN60G-Hackintosh/blob/main/FN60G-3.png)
+![](https://github.com/Xmingbai/BeeLink-GTi12-UItra-Hackintosh/blob/main/OS.png)
+![](https://github.com/Xmingbai/BeeLink-GTi12-UItra-Hackintosh/blob/main/CPU.png)
+![](https://github.com/Xmingbai/BeeLink-GTi12-UItra-Hackintosh/blob/main/R2024.png)
+![](https://github.com/Xmingbai/BeeLink-GTi12-UItra-Hackintosh/blob/main/ETH.png)
+![](https://github.com/Xmingbai/BeeLink-GTi12-UItra-Hackintosh/blob/main/USB.png)
+![](https://github.com/Xmingbai/BeeLink-GTi12-UItra-Hackintosh/blob/main/USb4.png)
+![](https://github.com/Xmingbai/BeeLink-GTi12-UItra-Hackintosh/blob/main/Audio.png)
+![](https://github.com/Xmingbai/BeeLink-GTi12-UItra-Hackintosh/blob/main/RX5500.png)
+
