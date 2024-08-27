@@ -35,7 +35,8 @@ BIOS默认就可以，也可以关闭cfg lock
 
 14版本开始免驱的BCM无线网卡全部失效，需额外的kexts+OCLP补丁
 
-相关链接：
+相关链接
+
 intel无线网卡驱动：https://github.com/OpenIntelWireless/itlwm/releases
 
 OCLP链接：https://github.com/dortania/OpenCore-Legacy-Patcher/releases
