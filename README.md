@@ -37,6 +37,7 @@ BIOS默认就可以，也可以关闭cfg lock
 
 相关链接：
 intel无线网卡驱动：https://github.com/OpenIntelWireless/itlwm/releases
+
 OCLP链接：https://github.com/dortania/OpenCore-Legacy-Patcher/releases
 
 
