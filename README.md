@@ -2,8 +2,7 @@
 
 主机链接：https://u.jd.com/hb2OgDd
 
-B站测评视频：更新中
-
+B站测评视频：https://www.bilibili.com/video/BV1wxsse8EYA
 ===========================================================================
 # 主机配置单
 主机 ：零刻GTi12 Ultra +EX显卡坞
@@ -25,14 +24,21 @@ BIOS默认就可以，也可以关闭cfg lock
 
 切换到65W TDP 模式
 
-需注意14版本开始免驱的BCM无线网卡全部失效
-
-下载OC引导请看本页面的Releases
-
 ===========================================================================
 
 # MacOS 完美程度
 可以支持安装macOS 12-14所有版本，15 beta理论上也可以
+
+下载OC引导请看本页面的Releases
+
+主机自带的intel AX200无线网卡驱动与系统版本号息息相关
+
+14版本开始免驱的BCM无线网卡全部失效，需额外的kexts+OCLP补丁
+
+相关链接：
+intel无线网卡驱动：https://github.com/OpenIntelWireless/itlwm/releases
+OCLP链接：https://github.com/dortania/OpenCore-Legacy-Patcher/releases
+
 
 CPU大小核心正常
 
